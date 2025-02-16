@@ -1,6 +1,6 @@
 # 🌐 **Web Genesis**  
 
-Welcome to **Web Genesis**, an intensive **web development program** running from **February 17th to March 7th, 2025**. This program is designed to help you **build practical web development skills** through **hands-on projects** and **mentored guidance**. 🚀  
+Welcome to **Web Genesis**, an intensive **Web Development Mentorship program** . This program is designed to help you **build practical web development skills** through **hands-on projects** and **mentored guidance**. 🚀  
 
 ---
 
@@ -8,6 +8,7 @@ Welcome to **Web Genesis**, an intensive **web development program** running fro
 
 Our repository is organized into the following main directories:  
 
+📂 **`html-css/`** - Foundational web components  
 📂 **`html-css-javascript/`** - Foundational and functional web components  
 📂 **`react/`** - Modern front-end development  
 📂 **`backend/`** - Server-side implementation  
